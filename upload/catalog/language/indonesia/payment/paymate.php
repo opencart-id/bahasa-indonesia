@@ -1,11 +1,11 @@
 <?php
 // Text
-$_['text_title']          = 'Credit Card / Debit Card (Paymate)';
-$_['text_unable']         = 'Unable to locate or update your order status';
-$_['text_declined']       = 'Payment was declined by Paymate';
-$_['text_failed']         = 'Paymate Transaction Failed';
-$_['text_failed_message'] = '<p>Unfortunately there was an error processing your Paymate transaction.</p><p><b>Warning: </b>%s</p><p>Please verify your Paymate account balance before attempting to re-process this order</p><p> If you believe this transaction has completed successfully, or is showing as a deduction in your Paymate account, please <a href="%s">Contact Us</a> with your order details.</p>';
-$_['text_basket']         = 'Basket';
+$_['text_title']          = 'Kartu Kredit / Kartu Debit (Paymate)';
+$_['text_unable']         = 'Tidak dapat menemukan atau memperbarui status pesanan Anda';
+$_['text_declined']       = 'Pembayaran ditolak oleh Paymate';
+$_['text_failed']         = 'Transaksi Paymate Gagal';
+$_['text_failed_message'] = '<p>Sayangnya ada masalah saat memproses transaksi Paymate Anda.</p><p><b>Peringatan: </b>%s</p><p>Harap verifikasi saldo rekening Paymate Anda sebelum mencoba untuk proses kembali pesanan ini</p><p> Jika Anda yakin transaksi ini telah selesai dengan sukses, atau menunjukkan pengurang dalam akun Paymate Anda, silakan <a href="%s">Hubungi Kami</a> dengan rincian pesanan Anda.</p>';
+$_['text_basket']         = 'Keranjang';
 $_['text_checkout']       = 'Checkout';
-$_['text_success']        = 'Success';
+$_['text_success']        = 'Sukses';
 ?>
