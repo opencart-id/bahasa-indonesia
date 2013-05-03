@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']      = 'Free Checkout';
+$_['heading_title']      = 'Gratis Checkout';
 
 // Text
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified Free Checkout payment module!';
+$_['text_payment']       = 'Pembayaran';
+$_['text_success']       = 'Sukses: Anda telah memodifikasi modul pembayaran Gratis Checkout!';
 
 // Entry
-$_['entry_order_status'] = 'Order Status:';
+$_['entry_order_status'] = 'Status Pesanan:';
 $_['entry_status']       = 'Status:';
 $_['entry_sort_order']   = 'Sort Order:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment Free Checkout!';
+$_['error_permission']   = 'Peringatan: Anda tidak memiliki izin untuk memodifikasi pembayaran Gratis Checkout!';
 ?>

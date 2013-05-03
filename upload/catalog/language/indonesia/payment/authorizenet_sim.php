@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (Authorize.Net)';
+$_['text_title'] = 'Kartu Kredit / Kartu Debit (Authorize.Net)';
 ?>

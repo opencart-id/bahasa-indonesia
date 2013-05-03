@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Credit Card / Debit Card (SagePay)';
-$_['text_description'] = 'Items on %s Order No: %s';
+$_['text_title']       = 'Kartu Kredit / Kartu Debit (SagePay)';
+$_['text_description'] = 'Items pada %s No. Pesanan: %s';
 ?>
