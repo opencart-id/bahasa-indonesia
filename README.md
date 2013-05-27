@@ -28,4 +28,4 @@ Installation
 
 Credit
 ------
-hardcoder69/OpenCart_ID_Language
+https://github.com/hardcoder69/OpenCart_ID_Language
