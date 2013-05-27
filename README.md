@@ -25,3 +25,7 @@ Installation
 	* Sort Order: 2
 5. Save
 6. Go to Admin > System > Settings > Edit > Local tab and change the language
+
+Credit
+------
+hardcoder69/OpenCart_ID_Language
