@@ -94,6 +94,7 @@ $_['tab_store']                     = 'Toko';
 $_['tab_special']                   = 'Spesial';
 $_['tab_local']                     = 'Local';
 $_['tab_mail']                      = 'Mail';
+$_['tab_marketplace_links']         = 'Link Pasar';
 $_['tab_module']                    = 'Modul';
 $_['tab_order']                     = 'Detail Pesanan';
 $_['tab_payment']                   = 'Detail Pembayaran';
