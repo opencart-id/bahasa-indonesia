@@ -45,9 +45,9 @@ $_['column_total']           = 'Total';
 $_['entry_coupon']           = 'Masukkan kupon Anda disini:';
 $_['entry_voucher']          = 'Masukkan Voucher Hadiah Anda disini:';
 $_['entry_reward']           = 'Point yang akan digunakan (Maks %s):';
-$_['entry_country']          = 'Propinsi:';
-$_['entry_zone']             = 'Kab / Kota:';
-$_['entry_postcode']         = 'Post Code:';
+$_['entry_country']          = 'Negara:';
+$_['entry_zone']             = 'Propinsi:';
+$_['entry_postcode']         = 'Kode Pos:';
 
 // Error
 $_['error_stock']            = 'Produk yang ditandai dengan *** sedang tidak ada stok!';
